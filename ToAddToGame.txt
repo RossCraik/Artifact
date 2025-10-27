@@ -1,0 +1,5 @@
+Controller controls
+Reload button
+Reload timer
+be able to pick a gun up after dropping it
+2 weapon inventory?
