@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Uni/CMP400/artifact/Artifact/HonorsGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Uni/CMP400/artifact/Artifact/HonorsGame/Content/Input/IMC_Default.uasset",
+				"D:/Uni/CMP400/artifact/Artifact/HonorsGame/Content/Variant_Shooter/Blueprints/BP_ShooterCharacter.uasset",
+				"D:/Uni/CMP400/artifact/Artifact/HonorsGame/Content/Input/Actions/IA_ClickMove.uasset",
+				"D:/Uni/CMP400/artifact/Artifact/HonorsGame/Content/2ButtonControls/TraceBall.uasset",
+				"D:/Uni/CMP400/artifact/Artifact/HonorsGame/Content/Variant_Shooter/Blueprints/Pickups/Projectiles/BP_ShooterProjectile_Bullet.uasset",
+				"D:/Uni/CMP400/artifact/Artifact/HonorsGame/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
 				"A:/CMP400/Artifact/HonorsGame/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/XV/LWNUPFNDMGB09ZYUWFOBJB.uasset"
 			]
 		}
