@@ -5,11 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"M:/CMP 400/Artifact/HonorsGame/Content/Variant_Shooter/Input/IMC_Weapons.uasset",
-				"M:/CMP 400/Artifact/HonorsGame/Content/Input/IMC_Default.uasset",
-				"M:/CMP 400/Artifact/HonorsGame/Content/Variant_Shooter/Blueprints/BP_ShooterCharacter.uasset",
-				"M:/CMP 400/Artifact/HonorsGame/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/6/RG/CRT4VB90O90S7I58BUVE73.uasset",
-				"M:/CMP 400/Artifact/HonorsGame/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/C/S6/HO25J6FYODSGTUD98ZAFRQ.uasset",
 				"D:/Uni/CMP400/artifact/Artifact/HonorsGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/Uni/CMP400/artifact/Artifact/HonorsGame/Content/Input/IMC_Default.uasset",
 				"D:/Uni/CMP400/artifact/Artifact/HonorsGame/Content/Variant_Shooter/Blueprints/BP_ShooterCharacter.uasset",
@@ -26,6 +21,12 @@
 				"D:/Uni/CMP400/artifact/Artifact/HonorsGame/Content/Variant_Shooter/Input/IMC_Weapons.uasset",
 				"D:/Uni/CMP400/artifact/Artifact/HonorsGame/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/3/AJ/OJ8QYCG39YTUX394GYD8WN.uasset",
 				"D:/Uni/CMP400/artifact/Artifact/HonorsGame/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/E/EC/AX7R1S56LE8T62FJLOXCZW.uasset",
+				"D:/Uni/CMP400/artifact/Artifact/HonorsGame/Content/Variant_Shooter/Blueprints/Pickups/BP_ShooterWeaponBase.uasset",
+				"M:/CMP 400/Artifact/HonorsGame/Content/Variant_Shooter/Input/IMC_Weapons.uasset",
+				"M:/CMP 400/Artifact/HonorsGame/Content/Input/IMC_Default.uasset",
+				"M:/CMP 400/Artifact/HonorsGame/Content/Variant_Shooter/Blueprints/BP_ShooterCharacter.uasset",
+				"M:/CMP 400/Artifact/HonorsGame/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/6/RG/CRT4VB90O90S7I58BUVE73.uasset",
+				"M:/CMP 400/Artifact/HonorsGame/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/C/S6/HO25J6FYODSGTUD98ZAFRQ.uasset",
 				"A:/CMP400/Artifact/HonorsGame/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/XV/LWNUPFNDMGB09ZYUWFOBJB.uasset"
 			]
 		}
